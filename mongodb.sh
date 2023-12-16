@@ -28,7 +28,7 @@ then
 	echo -e "$R ERROR:: Please run this with root access $N"
 	exit 1
 else
-	echo -e "$G You are in root user"
+	echo -e "$G You are in root user $N"
 
 fi 
 #echo"All arguments passed:$@"
