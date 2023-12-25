@@ -1,9 +1,9 @@
 #!/bin/bash
 
 AMI=ami-03265a0778a880afb
-SG_ID=sg-087e7afb3a936fce7 #replace with your SG ID
+SG_ID=sg-0ace5c8b6f58941e6 #replace with your SG ID
 INSTANCES=("mongodb" "redis" "mysql" "rabbitmq" "catalogue" "user" "cart" "shipping" "payment" "dispatch" "web")
-ZONE_ID=Z104317737D96UJVA7NEF
+ZONE_ID=Z05173601IP58I4SC18MS
 DOMAIN_NAME="devrobo.shop"
 
 for i in "${INSTANCES[@]}"
