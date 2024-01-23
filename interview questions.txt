@@ -1,0 +1,7 @@
+Most asked interview question for me
+1.day to day activities
+2.how do u deploy pipeline
+3.ehat resources u worked mostly on aws
+4.have done terraform certificate
+5.what type of task u involved in terraform
+6.how will u get terraform work
